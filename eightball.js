@@ -37,4 +37,3 @@ if (randomNumber == 0) {
     eightBall = ("Signs point to yes");
 }
 console.log(randomNumber, eightBall);
-setText('#eightBallMessage', eightBall)
